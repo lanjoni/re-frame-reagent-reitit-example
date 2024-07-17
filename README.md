@@ -3,6 +3,8 @@
 A [re-frame](https://github.com/day8/re-frame) application designed to ... well, that part is up to
 you.
 
+This template was built using [re-frame template](https://github.com/day8/re-frame-template) with some changes to add [reitit](https://github.com/metosin/reitit).
+
 ## Getting Started
 
 ### Project Overview
